@@ -1,0 +1,20 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Dummy Test",
+        "description": "",
+        "id": "a-simple-karate-test-that-always-passes;dummy-test",
+        "type": "scenario",
+        "keyword": "Scenario"
+      }
+    ],
+    "name": "karate/dummy.feature",
+    "description": "A simple Karate test that always passes",
+    "id": "a-simple-karate-test-that-always-passes",
+    "keyword": "Feature",
+    "uri": "karate/dummy.feature"
+  }
+]
